@@ -25,7 +25,7 @@
 }
 .hour-marks {
     fill: none;
-    stroke: rgb(226, 211, 0);
+    stroke: rgb(255, 73, 134);
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
